@@ -1,6 +1,15 @@
 # amazon-sales-cleaning-visualisation-python
 This repository contains Python scripts to analyze the Amazon Sales Report. The scripts perform data cleaning, data exploration, data transformation, and visualizations on the dataset.
 
+
+
+
+Output: 
+
+<img width="915" alt="Screenshot 2023-08-24 at 22 12 02" src="https://github.com/Jegors19/amazon-sales-cleaning-visualisation-python/assets/116096669/ac914748-be12-4eca-9c48-ceabaf6aacc1"><img width="940" alt="Screenshot 2023-08-24 at 22 11 54" src="https://github.com/Jegors19/amazon-sales-cleaning-visualisation-python/assets/116096669/b912718c-236e-4f52-8cd3-bb509ea023ce">
+
+<img width="757" alt="Screenshot 2023-08-24 at 22 13 10" src="https://github.com/Jegors19/amazon-sales-cleaning-visualisation-python/assets/116096669/11981c9f-6217-4e76-9f26-d32fb71298a4">
+
 Dataset: https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data
 
 Table of Contents
